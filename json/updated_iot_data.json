@@ -1,0 +1,70 @@
+{
+    "lcds": [
+        {
+            "address": "0x25",
+            "data1": [
+                {
+                    "line1": "Data 1a",
+                    "line2": "Data 1b"
+                }
+            ],
+            "data2": [
+                {
+                    "line1": "Data 2a",
+                    "line2": "Data 2b"
+                }
+            ],
+            "data3": [
+                {  
+                    "line1": "Data 3a",
+                    "line2": "Data 3b"
+                }
+            ]
+        },
+        {
+            "address":"0x26",
+            "data1":[
+                {  
+                    "line1":"Data 1a",
+                    "line2":"Data 2b"
+                }
+            ],
+            "data2": [
+                {
+                    "line1": "Data 2a",
+                    "line2": "Data 2b"
+                }
+            ],
+            "data3": [
+                {  
+                    "line1": "Data 3a",
+                    "line2": "Data 3b"
+                }
+            ]
+            
+        },
+        {
+            "address":"0x27",
+            "data1":[
+                {  
+                    "line1":"Data 1a",
+                    "line2":"Data 2b"
+                }
+            ],
+            "data2": [
+                {
+                    "line1": "Data 2a",
+                    "line2": "Data 2b"
+                }
+            ],
+            "data3": [
+                {  
+                    "line1": "Data 3a",
+                    "line2": "Data 3b"
+                }
+            ]
+            
+        }
+
+    ]
+}
